@@ -1,0 +1,2 @@
+//Implicit 
+console.log()
